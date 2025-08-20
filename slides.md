@@ -92,7 +92,7 @@ section::after {
 
 ---
 
-<!-- _backgroundImage: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1600&q=80&auto=format&fit=crop' -->
+<!-- _backgroundImage: url(./img/rainbow.jpeg)' -->
 
 <!-- _backgroundSize: cover -->
 
