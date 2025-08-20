@@ -82,7 +82,7 @@ style: |
 
 # Background Example
 
-![bg cover](./img/rainbow.jpg)
+![bg cover](./img/rainbow.jpeg)
 
 This slide uses a full background image 🎨
 
